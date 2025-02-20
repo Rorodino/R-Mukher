@@ -8,4 +8,5 @@ on the NCDB Meningiona Data Set for which I conducted data analysis in R across 
 difference existed in groups segregated by the aforementioned factors.
 
 This project contains a few things:
-1. A workflow I used to create the outline of how my code woul dbe laid out when conducting data analysis
+1. A workflow I used to create the outline of how my code would be laid out when conducting data analysis in the form of the PRISMA diagram
+2. 
